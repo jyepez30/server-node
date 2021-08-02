@@ -1,0 +1,3 @@
+para arranacar el servidor:
+comando: npm run dev
+
